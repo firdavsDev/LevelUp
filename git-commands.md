@@ -21,5 +21,6 @@
 5) Git holatini tekshirish uchun terminalda quyidagi komandalarni ishga tushirish kerak:
 - `git status` - Git holatini tekshirish
 - `git log` - Gitda qilingan ishlar tarixini ko'rish
-
+- `git restore` - Hali add qilinmagan o'zgarishlarni qaytarvoladi
+- `git restore --staged` - Commit qilib bo'lingan fayllarni qaytarvoladi
 
