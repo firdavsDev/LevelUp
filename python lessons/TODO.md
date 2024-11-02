@@ -7,3 +7,11 @@
 - [] Learn Collections & Itertools modules (learn it from youtube)
 - [] Learn Logging
 - [x] Learn Git & Github basics
+- [] Learn Context Managers (with statement)
+- [] Learn Pathlib module (from youtube)
+- [] Learn Dataclasses
+- [] Learn Threading & Multiprocessing and GIL
+- [] Learn Asyncio & Async/Await
+- [] Memory Management in Python
+- [] Learn Singletons
+- Django (Sariq.dev, Django blog)
