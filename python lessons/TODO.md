@@ -2,8 +2,8 @@
 
 - [x] Learn OOP in Python
 - [x] Learn Usefull funtions (map, filter, lambda)
-- [] Learn Decorators
-- [] Learn Generators
-- [] Learn Collections & Itertools modules
+- [x] Learn Decorators
+- [x] Learn Generators
+- [] Learn Collections & Itertools modules (learn it from youtube)
 - [] Learn Logging
 - [x] Learn Git & Github basics

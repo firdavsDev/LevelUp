@@ -1,0 +1,12 @@
+division by zero
+division by zero
+division by zero
+division by zero
+division by zero
+division by zero
+division by zero
+division by zero
+division by zero
+ERROR: division by zero
+INFO: division by zero
+ 
