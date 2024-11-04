@@ -1,0 +1,24 @@
+2024-11-05 00:28:46,126:DEBUG:This is a debug message:Line No: 34
+2024-11-05 00:28:46,126:INFO:a is 5, b is 0:Line No: 36
+2024-11-05 00:28:46,126:ERROR:Exception occurred: division by zero:Line No: 41
+2024-11-05 00:29:15,552:DEBUG:This is a debug message:Line No: 36
+2024-11-05 00:29:15,552:INFO:a is 5, b is 0:Line No: 38
+2024-11-05 00:29:15,552:ERROR:Exception occurred: division by zero:Line No: 43
+2024-11-05 00:30:38,724:DEBUG:This is a debug message:Line No: 36
+2024-11-05 00:30:38,724:INFO:a is 5, b is 0:Line No: 38
+2024-11-05 00:30:38,724:ERROR:Exception occurred: division by zero:Line No: 43
+2024-11-05 00:30:39,325:DEBUG:This is a debug message:Line No: 36
+2024-11-05 00:30:39,325:INFO:a is 5, b is 0:Line No: 38
+2024-11-05 00:30:39,325:ERROR:Exception occurred: division by zero:Line No: 43
+2024-11-05 00:30:39,865:DEBUG:This is a debug message:Line No: 36
+2024-11-05 00:30:39,865:INFO:a is 5, b is 0:Line No: 38
+2024-11-05 00:30:39,865:ERROR:Exception occurred: division by zero:Line No: 43
+2024-11-05 00:30:40,325:DEBUG:This is a debug message:Line No: 36
+2024-11-05 00:30:40,325:INFO:a is 5, b is 0:Line No: 38
+2024-11-05 00:30:40,325:ERROR:Exception occurred: division by zero:Line No: 43
+2024-11-05 00:30:40,725:DEBUG:This is a debug message:Line No: 36
+2024-11-05 00:30:40,725:INFO:a is 5, b is 0:Line No: 38
+2024-11-05 00:30:40,726:ERROR:Exception occurred: division by zero:Line No: 43
+2024-11-05 00:30:41,540:DEBUG:This is a debug message:Line No: 36
+2024-11-05 00:30:41,540:INFO:a is 5, b is 0:Line No: 38
+2024-11-05 00:30:41,540:ERROR:Exception occurred: division by zero:Line No: 43

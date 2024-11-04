@@ -1,32 +1,35 @@
-import logging
-import logging.config
+from my_logger import logging
 
-# LOGGING LEVELS
 # DEBUG
+print(logging.DEBUG)  # 10 # when you want to know what's going on in your program
 # INFO
+print(logging.INFO)  # 20 # when something expected happens (user logs in)
 # WARNING
+print(
+    logging.WARNING
+)  # 30 # when something unexpected happens (1 000 000$ transaction)
 # ERROR
+print(logging.ERROR)  # 40 # when your program runs into a problem (try/except)
 # CRITICAL
-
-fmtStr = "%(asctime)s: %(levelname)s: %(funcName)s Line:%(lineno)d %(message)s"
-
-# logging.basicConfig(filename="example.log", level=logging.DEBUG)
-logging.basicConfig(
-    filename="example.log",
-    level=logging.DEBUG,
-    format=fmtStr,
-    datefmt="%m/%d/%Y %I:%M:%S %p",
-    style="%",
-)
+print(logging.CRITICAL)  # 50 when your program crashes
 
 
-def error_function():
+def error_handling(a: int, b: int):
+    logging.debug("This is a debug message")
     try:
-        logging.info("Function started")
-        print(1 / 0)
+        logging.info(f"a is {a}, b is {b}")
+        div = a / b
+        logging.info(f"Division is {div}")
+        return div
     except Exception as e:
-        logging.error("An error occured")
+        logging.error(f"Exception occurred: {e}")
 
 
 if __name__ == "__main__":
-    error_function()
+    error_handling(5, 0)
+
+
+@my_custom_loger  # home task
+def error_handling(a: int, b: int):
+    div = a / b
+    return div
