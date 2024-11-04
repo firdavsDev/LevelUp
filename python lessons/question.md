@@ -1,2 +1,2 @@
-- [] dict bilan collections.OrderedDict() ni farqi
-- [] 
+- [x] dict bilan collections.OrderedDict() ni farqi
+- [] exseption ni nega as e deb ozgartirganimzda chiqyabdi
