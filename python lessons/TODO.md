@@ -5,11 +5,10 @@
 - [x] Learn Decorators
 - [x] Learn Generators
 - [] Learn Collections & Itertools modules (learn it from youtube)
-- [] Learn Logging
+- [x] Learn Logging
 - [x] Learn Git & Github basics
-- [] Learn Context Managers (with statement)
-- [] Learn Pathlib module (from youtube)
-- [] Learn Dataclasses
+- [x] Learn Context Managers (with statement)
+- [x] Learn Pathlib module (from youtube)
 - [] Learn Threading & Multiprocessing and GIL
 - [] Learn Asyncio & Async/Await
 - [] Memory Management in Python
