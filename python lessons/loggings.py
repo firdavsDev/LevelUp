@@ -28,16 +28,15 @@ from my_logger import logging
 
 def my_custom_logger(original_func):
     def error_func(*args, **kwargs):
-        logging.debug("ishga tushdi")
+        logging.debug(f"ishga tushdi {original_func.__name__}")
         try:
-            print("1")
             logging.info(f"o'zgaruvchilar: a = {args[0]}, b = {args[1]}")
             new_value = original_func(*args, **kwargs)
             logging.info(f"xatoliksiz ishlayabdi")
             return new_value
-        except Exception as e:
+        except Exception as a:
             logging.warning("xatolik chiqdi")
-            logging.error(f"Xatolik: {e}")
+            logging.error(f"Xatolik: {a}")
     return error_func
 
 

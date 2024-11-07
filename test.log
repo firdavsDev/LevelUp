@@ -1,0 +1,27 @@
+2024-11-06 22:38:42,020:DEBUG:ishga tushdi:Line: 31
+2024-11-06 22:38:42,020:INFO:o'zgaruvchilar: a = 5, b = 0:Line: 34
+2024-11-06 22:38:42,020:WARNING:xatolik chiqdi:Line: 39
+2024-11-06 22:38:42,020:ERROR:Xatolik: division by zero:Line: 40
+2024-11-06 22:39:32,933:DEBUG:ishga tushdi:Line: 31
+2024-11-06 22:39:32,933:INFO:o'zgaruvchilar: a = 5, b = 0:Line: 33
+2024-11-06 22:39:32,933:WARNING:xatolik chiqdi:Line: 38
+2024-11-06 22:39:32,933:ERROR:Xatolik: <class 'Exception'>:Line: 39
+2024-11-06 22:39:36,962:DEBUG:ishga tushdi:Line: 31
+2024-11-06 22:39:36,962:INFO:o'zgaruvchilar: a = 5, b = 0:Line: 33
+2024-11-06 22:39:36,962:WARNING:xatolik chiqdi:Line: 38
+2024-11-06 22:39:36,962:ERROR:Xatolik: <class 'Exception'>:Line: 39
+2024-11-06 22:42:27,231:DEBUG:ishga tushdi:Line: 31
+2024-11-06 22:42:27,231:INFO:o'zgaruvchilar: a = 5, b = 0:Line: 33
+2024-11-06 22:42:27,231:WARNING:xatolik chiqdi:Line: 38
+2024-11-06 22:43:07,532:DEBUG:ishga tushdi:Line: 31
+2024-11-06 22:43:07,532:INFO:o'zgaruvchilar: a = 5, b = 0:Line: 33
+2024-11-06 22:43:07,532:WARNING:xatolik chiqdi:Line: 38
+2024-11-06 22:43:07,532:ERROR:Xatolik: division by zero:Line: 39
+2024-11-06 22:44:16,459:DEBUG:ishga tushdi <function error_handling at 0x7baf6cb20c20>:Line: 31
+2024-11-06 22:44:16,459:INFO:o'zgaruvchilar: a = 5, b = 0:Line: 33
+2024-11-06 22:44:16,459:WARNING:xatolik chiqdi:Line: 38
+2024-11-06 22:44:16,459:ERROR:Xatolik: division by zero:Line: 39
+2024-11-06 22:45:26,172:DEBUG:ishga tushdi error_handling:Line: 31
+2024-11-06 22:45:26,173:INFO:o'zgaruvchilar: a = 5, b = 0:Line: 33
+2024-11-06 22:45:26,173:WARNING:xatolik chiqdi:Line: 38
+2024-11-06 22:45:26,173:ERROR:Xatolik: division by zero:Line: 39
